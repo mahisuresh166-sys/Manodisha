@@ -1,1 +1,47 @@
 # Manodisha
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home — Manodisha</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav class="site-nav">
+    <a href="index.html">Home</a>
+    <a href="about.html">About the Editorial Board</a>
+    <a href="team.html">Editorial Team</a>
+    <a href="publications.html">Publications</a>
+    <a href="articles.html">Articles and Contributions</a>
+    <a href="events.html">Events and Activities</a>
+    <a href="announcements.html">Announcements</a>
+    <a href="contact.html">Contact Us</a>
+  </nav>
+  <main>
+    <h1>Manodisha</h1>
+    <p>[One-line intro placeholder]</p>
+    <section>
+      <h2>Latest Announcements</h2>
+      <p>[Announcement title] · [Date]</p>
+      <p>[Announcement title] · [Date]</p>
+      <p>[Announcement title] · [Date]</p>
+    </section>
+    <section>
+      <h2>Recent Publications</h2>
+      <p>[Publication title] · [Author] · [Year]</p>
+      <p>[Publication title] · [Author] · [Year]</p>
+      <p>[Publication title] · [Author] · [Year]</p>
+    </section>
+    <section>
+      <h2>Upcoming Events</h2>
+      <p>[Event name] · [Date] · [Venue]</p>
+      <p>[Event name] · [Date] · [Venue]</p>
+      <p>[Event name] · [Date] · [Venue]</p>
+    </section>
+  </main>
+  <footer class="site-footer">
+    <p>[Footer placeholder — department name, address, email]</p>
+  </footer>
+</body>
+</html>
